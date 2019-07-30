@@ -1,0 +1,559 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ebee4a45-6019-4566-a24d-f5a2a20fd97f" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/Bank_search/composer.json</pharConfigPath>
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Bank_search/.env">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Bank_search/routes/web.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="20" selection-start-line="20" selection-end-line="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Bank_search/resources/views/bank_welcome.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Bank_search/resources/views/bank_id_create.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Bank_search/app/Http/Controllers/bank_id_controller.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Bank_search/resources/views/bank_search_output.blade.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Bank_search/app/bank_info_model.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Bank_search/app/id_info_model.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Bank_search/database/migrations/2019_07_29_140437_Bank_id_mig.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>bank_data</find>
+      <find>id_info</find>
+      <find>bank_info</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>id_info</replace>
+      <replace>ban_info_model</replace>
+      <replace>bank_info_model</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Bank_search/app/welcome.php" />
+        <option value="$PROJECT_DIR$/Bank_search/app/info.php" />
+        <option value="$PROJECT_DIR$/Bank_search/.env" />
+        <option value="$PROJECT_DIR$/Bank_search/app/info_model.php" />
+        <option value="$PROJECT_DIR$/Bank_search/resources/views/bank_show.blade.php" />
+        <option value="$PROJECT_DIR$/Bank_search/resources/views/name_show.blade.php" />
+        <option value="$PROJECT_DIR$/Bank_search/database/migrations/2019_07_29_073356_info.php" />
+        <option value="$PROJECT_DIR$/Bank_search/database/migrations/2019_07_29_140437_bank_id_mig.php" />
+        <option value="$PROJECT_DIR$/Bank_search/resources/views/code_show.blade.php" />
+        <option value="$PROJECT_DIR$/Bank_search/app/Http/Controllers/bank_info.php" />
+        <option value="$PROJECT_DIR$/Bank_search/database/migrations/2019_07_29_140437_bank_migration.php" />
+        <option value="$PROJECT_DIR$/Bank_search/app/bank_model.php" />
+        <option value="$PROJECT_DIR$/Bank_search/app/bank_data.php" />
+        <option value="$PROJECT_DIR$/Bank_search/app/Http/Controllers/bank_controller.php" />
+        <option value="$PROJECT_DIR$/Bank_search/resources/views/bank_id.blade.php" />
+        <option value="$PROJECT_DIR$/Bank_search/app/bank_info_model.php" />
+        <option value="$PROJECT_DIR$/Bank_search/app/id_info_model.php" />
+        <option value="$PROJECT_DIR$/Bank_search/routes/web.php" />
+        <option value="$PROJECT_DIR$/Bank_search/database/migrations/2019_07_29_140437_Bank_id_mig.php" />
+        <option value="$PROJECT_DIR$/Bank_search/resources/views/bank_welcome.blade.php" />
+        <option value="$PROJECT_DIR$/Bank_search/resources/views/bank_search_output.blade.php" />
+        <option value="$PROJECT_DIR$/Bank_search/resources/views/bank_id_create.blade.php" />
+        <option value="$PROJECT_DIR$/Bank_search/app/Http/Controllers/bank_id_controller.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/Bank_search/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/composer" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/symfony/translation-contracts" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/symfony/event-dispatcher-contracts" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/symfony/polyfill-php73" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/symfony/mime" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/symfony/service-contracts" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/laravel/framework" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/beyondcode/laravel-dump-server" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/Bank_search/vendor/phpunit/phpunit" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="811" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Bank_search" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bank_search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bank_search" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bank_search" type="462c0819:PsiDirectoryNode" />
+              <item name="Bank_search" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bank_search" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bank_search" type="462c0819:PsiDirectoryNode" />
+              <item name="Bank_search" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bank_search" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bank_search" type="462c0819:PsiDirectoryNode" />
+              <item name="Bank_search" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bank_search" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bank_search" type="462c0819:PsiDirectoryNode" />
+              <item name="Bank_search" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bank_search" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bank_search" type="462c0819:PsiDirectoryNode" />
+              <item name="Bank_search" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bank_search" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bank_search" type="462c0819:PsiDirectoryNode" />
+              <item name="Bank_search" type="462c0819:PsiDirectoryNode" />
+              <item name="database" type="462c0819:PsiDirectoryNode" />
+              <item name="migrations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bank_search" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bank_search" type="462c0819:PsiDirectoryNode" />
+              <item name="Bank_search" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bank_search" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bank_search" type="462c0819:PsiDirectoryNode" />
+              <item name="Bank_search" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="views" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bank_search" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bank_search" type="462c0819:PsiDirectoryNode" />
+              <item name="Bank_search" type="462c0819:PsiDirectoryNode" />
+              <item name="routes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Bank_search" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Bank_search" type="462c0819:PsiDirectoryNode" />
+              <item name="Bank_search" type="462c0819:PsiDirectoryNode" />
+              <item name="storage" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebee4a45-6019-4566-a24d-f5a2a20fd97f" name="Default Changelist" comment="" />
+      <created>1564381764294</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564381764294</updated>
+      <workItem from="1564381765633" duration="4423000" />
+      <workItem from="1564386747781" duration="4511000" />
+      <workItem from="1564393387775" duration="1782000" />
+      <workItem from="1564395245130" duration="226000" />
+      <workItem from="1564395929572" duration="11327000" />
+      <workItem from="1564423846507" duration="16161000" />
+      <workItem from="1564504019780" duration="63000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="38493000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="811" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.26752505" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32916668" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32962447" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26752505" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32916668" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32962447" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Bank_search/app/welcome.php" />
+    <entry file="file://$PROJECT_DIR$/Bank_search/resources/views/welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bank_search/app/Http/Controllers/Controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bank_search/public/css/app.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="7" column="271" selection-start-line="7" selection-start-column="271" selection-end-line="7" selection-end-column="271" />
+          <folding>
+            <element signature="e#53480#53680#2" expanded="true" />
+            <element signature="e#53886#54035#2" expanded="true" />
+            <element signature="e#54534#54680#2" expanded="true" />
+            <element signature="e#54981#55147#1" expanded="true" />
+            <element signature="e#65468#65711#2" expanded="true" />
+            <element signature="e#66536#66785#2" expanded="true" />
+            <element signature="e#92436#92626#2" expanded="true" />
+            <element signature="e#92672#92862#2" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bank_search/app/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bank_search/app/info.php" />
+    <entry file="file://$PROJECT_DIR$/Bank_search/app/info_model.php" />
+    <entry file="file://$PROJECT_DIR$/Bank_search/resources/views/bank_show.blade.php" />
+    <entry file="file://$PROJECT_DIR$/Bank_search/database/migrations/2014_10_12_100000_create_password_resets_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="29" column="48" lean-forward="true" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bank_search/database/migrations/2014_10_12_000000_create_users_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bank_search/resources/views/name_show.blade.php" />
+    <entry file="file://$PROJECT_DIR$/Bank_search/database/migrations/2019_07_29_140356_bank_id.php" />
+    <entry file="file://$PROJECT_DIR$/Bank_search/app/bank_info.php" />
+    <entry file="file://$PROJECT_DIR$/Bank_search/database/migrations/2019_07_29_073356_info.php" />
+    <entry file="file://$PROJECT_DIR$/Bank_search/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="42" column="14" selection-start-line="42" selection-start-column="14" selection-end-line="42" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bank_search/app/Http/Controllers/bank_info.php" />
+    <entry file="file://$PROJECT_DIR$/Bank_search/database/migrations/2019_07_29_140437_bank_migration.php" />
+    <entry file="file://$PROJECT_DIR$/Bank_search/app/bank_model.php" />
+    <entry file="file://$PROJECT_DIR$/Bank_search/app/bank_data.php" />
+    <entry file="file://$PROJECT_DIR$/Bank_search/resources/views/code_show.blade.php" />
+    <entry file="file://$PROJECT_DIR$/Bank_search/app/Http/Controllers/bank_controller.php" />
+    <entry file="file://$PROJECT_DIR$/Bank_search/resources/views/bank_id.blade.php" />
+    <entry file="file://$PROJECT_DIR$/Bank_search/.env">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="14" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bank_search/routes/web.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bank_search/resources/views/bank_welcome.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="7" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bank_search/resources/views/bank_id_create.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bank_search/resources/views/bank_search_output.blade.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bank_search/app/bank_info_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="14" column="4" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bank_search/app/id_info_model.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="31" selection-start-line="10" selection-start-column="31" selection-end-line="10" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bank_search/database/migrations/2019_07_29_140437_Bank_id_mig.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Bank_search/app/Http/Controllers/bank_id_controller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
